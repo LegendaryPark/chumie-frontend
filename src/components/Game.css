@@ -1,0 +1,16 @@
+.selected {
+  background-color: red;
+}
+
+.word {
+  cursor: pointer;
+}
+
+.pairs {
+  display: flex;
+  justify-content: space-between;
+}
+
+.list {
+  width: 30%;
+}
